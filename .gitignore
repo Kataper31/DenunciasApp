@@ -1,0 +1,32 @@
+
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+.gradle-cache/
+**/build/
+.kotlin/
+
+# Configuración local
+local.properties
+.env
+.env.*
+keystore.properties
+
+# Archivos privados
+*.jks
+*.keystore
+*.hprof
+
+# Archivos generados
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
